@@ -79,6 +79,10 @@ Developed SQL queries to answer 10 business questions:
 
 Developed an interactive Power BI dashboard to present key customer behavior metrics and purchasing trends.
 
+## Power BI Dashboard Preview
+
+![Customer Behavior Dashboard](dashboard_preview.png)
+
 ### Key Performance Indicators (KPIs)
 
 - **Total Customers:** 3.9K
