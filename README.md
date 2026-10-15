@@ -81,7 +81,7 @@ Developed an interactive Power BI dashboard to present key customer behavior met
 
 ## Power BI Dashboard Preview
 
-![Customer Behavior Dashboard](dashboard_preview.png)
+![Customer Behavior Dashboard](<img width="1305" height="737" alt="Screenshot 2026-10-15 144203" src="https://github.com/user-attachments/assets/8c87259b-bb5c-4b7b-85b9-e44b11545f4f" />)
 
 ### Key Performance Indicators (KPIs)
 
